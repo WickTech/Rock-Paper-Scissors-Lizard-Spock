@@ -30,13 +30,13 @@ Your users should be able to:
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
 #### Original
-(./design/original/desktop-step-1.jpg)
+[Original](./design/original/desktop-step-1.jpg)
 - Paper beats Rock
 - Rock beats Scissors
 - Scissors beats Paper
 
 #### Bonus
-(./design/bonus/desktop-step-1-bonus.jpg)
+[Bonus](./design/bonus/desktop-step-1-bonus.jpg)
 - Scissors beats Paper
 - Paper beats Rock
 - Rock beats Lizard
