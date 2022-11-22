@@ -36,7 +36,7 @@ If the player wins, they gain 1 point. If the computer wins, the player loses on
 - Scissors beats Paper
 
 #### Bonus
-[Bonus](./design/bonus/desktop-step-1-bonus.jpg)
+![Bonus](./design/bonus/desktop-step-1-bonus.jpg)
 - Scissors beats Paper
 - Paper beats Rock
 - Rock beats Lizard
