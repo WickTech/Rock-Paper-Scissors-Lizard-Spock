@@ -62,8 +62,6 @@ If you would like the Sketch file in order to inspect the design in more detail 
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
-There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
-
 ## Building your project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
